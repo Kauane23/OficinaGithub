@@ -10,8 +10,12 @@ class Program
 
         double resultado = num + num1;
 
-        Console.WriteLine($"O resultado é: {resultado} ");
+        if (resultado == 0) { Console.WriteLine("Numero inválido"); }
+        if (resultado == 1) { Console.WriteLine("Numero inválido"); }
+        if (resultado == 2) { Console.WriteLine("Numero inválido"); }
 
+        Console.WriteLine($"O resultado é: {resultado} ");
+        
         Console.ReadLine();
     }
 }
