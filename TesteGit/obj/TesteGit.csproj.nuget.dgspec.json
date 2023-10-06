@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2021102020024\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj": {}
+    "C:\\Users\\2021102020024\\source\\repos\\OficinaGithub\\TesteGit\\TesteGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2021102020024\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj": {
+    "C:\\Users\\2021102020024\\source\\repos\\OficinaGithub\\TesteGit\\TesteGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2021102020024\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj",
+        "projectUniqueName": "C:\\Users\\2021102020024\\source\\repos\\OficinaGithub\\TesteGit\\TesteGit.csproj",
         "projectName": "TesteGit",
-        "projectPath": "C:\\Users\\2021102020024\\source\\repos\\TesteGit\\TesteGit\\TesteGit.csproj",
+        "projectPath": "C:\\Users\\2021102020024\\source\\repos\\OficinaGithub\\TesteGit\\TesteGit.csproj",
         "packagesPath": "C:\\Users\\2021102020024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2021102020024\\source\\repos\\TesteGit\\TesteGit\\obj\\",
+        "outputPath": "C:\\Users\\2021102020024\\source\\repos\\OficinaGithub\\TesteGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

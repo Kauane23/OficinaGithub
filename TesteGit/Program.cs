@@ -14,6 +14,11 @@ class Program
         if (resultado == 1) { Console.WriteLine("Numero inválido"); }
         if (resultado == 2) { Console.WriteLine("Numero inválido"); }
 
+        for (int i = 0; i < num; i++)
+        {
+            Console.WriteLine(i);
+        }
+
         Console.WriteLine($"O resultado é: {resultado} ");
         
         Console.ReadLine();
